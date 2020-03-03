@@ -3,7 +3,7 @@ It's a better way to safe time and resources to use SimpleTest in your project. 
 
 ## Usage
 
-### 1. Import decorator || Interface
+### 1. Import SimpleTest
 `import { SimpleTest } from './simple-test';`
 
 ### 2. Define SimpleTest variable
@@ -44,7 +44,7 @@ const u_button = simpleTest.getByAttr('button', 'data-aui', 'more-interests');
 
 #### Install a spy onto an existing object.
 ```
-// Supported dynamic arguments
+// Support dynamic arguments
 simpleTest.spyOn(component, 'loadMore', 'first arg', 'second arg')
 ```
 
