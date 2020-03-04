@@ -1,5 +1,5 @@
 ## SUMMARY
-It's a better way to safe time and resources to use SimpleTest in your project. It's a wrapper for all existing tests. See the API.
+This is a simple wrapper for all existing tests. It is a better way to save time and resources for any existing project. Please see the API for more information.
 
 ## Usage
 
